@@ -28,4 +28,4 @@ The goal is to help Swiggy (or similar platforms) improve restaurant visibility,
 - <a href="https://github.com/Vedant2331/Vedant-Swiggy-Data-Analysis/blob/main/swiggy%20restaurant%20data.sql">Swiggy Analysis</a>
 
 ## Conclusion 
-Successfully answered all the insight questions necessary for a stakeholder using SQL. Alsocreated tables with key columns and rows. Prominent use of SQL joins, WHERE functions, Group by, functions,etc.
+Successfully answered all the insight questions necessary for a stakeholder using SQL. Also created tables with key columns and rows. Prominent use of SQL joins, WHERE functions, Group by functions,etc.
